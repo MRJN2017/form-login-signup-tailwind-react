@@ -51,7 +51,7 @@ const signupFields = [
         name:"password",
         type:"password",
         autoComplete:"current-password",
-        isRequered:truw,
+        isRequered:true,
         placeholder:"Password",
     },
     {
